@@ -1,27 +1,20 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [New Age](http://startbootstrap.com/template-overviews/new-age/)
+![Qrpto yellow logo](http://url/to/img.png)
 
-[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+# Qrpto
 
-## Getting Started
+Quantum Resistant Protocol for Transmitting Orders (QRPTO)
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/new-age/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-new-age.git`
-* Fork the repo
+An application to diseminate information to public forums (Reddit, Twitter, Pastebin, Facebook etc.) after the following:
+* time elapsed (2 hours)
+* specific time (October 3rd 2022 01:05:02:22)
+* specific event (death of account owner confirmed by government entity)
 
-## Bugs and Issues
+The main benefit of this application is to provide anyone on Earth with access to a mobile device the ability to pass on important/critical information or insights to the general public if/when an event occurs without relying on third parties to diseminate such information.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-new-age/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/new-age/).
+## Call for Beta users
 
-## Creator
+If you'd like to be one of the first beta users of this application please reach out to me.
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+## Tech Stack
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-new-age/blob/gh-pages/LICENSE) license.
+The core application will first be developed using Python to determine the feasibility. If such a study confirms that the application has potential it will be developed using Flutter/Dash and be made available on multiple platforms.
