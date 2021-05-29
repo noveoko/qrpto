@@ -1,4 +1,4 @@
-![Qrpto yellow logo](http://url/to/img.png)
+![Qrpto yellow logo](	https://github.com/noveoko/qrpto/blob/master/img/logo.png?raw=true)
 
 # Qrpto
 
