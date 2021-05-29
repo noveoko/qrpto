@@ -18,3 +18,7 @@ If you'd like to be one of the first beta users of this application please reach
 ## Tech Stack
 
 The core application will first be developed using Python to determine the feasibility. If such a study confirms that the application has potential it will be developed using Flutter/Dash and be made available on multiple platforms.
+
+## Contribute to the development of Qrpto
+
+Donate [Banano](https://banano.cc): ban_3ixjg7wcabe9tqhnwwiqau9nqe7cx59aosqxxqy7js5t7et9m9h81tqeaomo
