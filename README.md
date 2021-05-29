@@ -24,6 +24,7 @@ The core application will first be developed using Python to determine the feasi
 Donate [Banano](https://banano.cc): ban_3ixjg7wcabe9tqhnwwiqau9nqe7cx59aosqxxqy7js5t7et9m9h81tqeaomo
 
 ## Social Links
+
 [Facebook](https://www.facebook.com/qrpto)
 [Twitter](https://www.twitter.com/qrpto)
 
