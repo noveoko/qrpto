@@ -25,6 +25,8 @@ Donate [Banano](https://banano.cc): ban_3ixjg7wcabe9tqhnwwiqau9nqe7cx59aosqxxqy7
 
 ## Social Links
 
+[Reddit](https://www.reddit.com/r/qrpto/)
+
 [Facebook](https://www.facebook.com/qrpto)
 
 [Twitter](https://www.twitter.com/qrpto)
