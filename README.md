@@ -25,7 +25,7 @@ Donate [Banano](https://banano.cc): ban_3ixjg7wcabe9tqhnwwiqau9nqe7cx59aosqxxqy7
 
 ## Tokens
 
-Various cryptographic tokens will be considered as viable platforms for message transmission. The following are the coin projects that have been or will be created. These are only meant for sending messages and not as monetery instruments. They have no value and are not transmitters of value.
+Various cryptographic tokens will be considered as viable platforms for message transmission. The following are the coin projects that have been or will be created. These are only meant for **sending messages** and not as monetery instruments. They have **no value and are not transmitters of value**.
 
 ### Qrpto (version 0.1)
 
