@@ -38,8 +38,12 @@ Donate [Banano](https://banano.cc): ban_3ixjg7wcabe9tqhnwwiqau9nqe7cx59aosqxxqy7
 
 Various cryptographic tokens will be considered as viable platforms for message transmission. The following are the coin projects that have been or will be created. These are only meant for **sending messages** and not as monetery instruments. They have **no value and are not transmitters of value**.
 
-### Qrpto (version 0.1)
+### Qrpto (version 0.0) -- BCH Blockchain (SLP)
 
 [Qrpto on BCH](https://explorer.bitcoin.com/bch/token/d713ca2cdeb671f2cae6b4b85e61316902497e61d053d57d198869b306315142)
 
 Status: Master wallet unable to be restored due to bitcoin.com API errors 
+
+### Qrpto2 (version 0.1) -- BCH Blockchain (SLP)
+
+under development
