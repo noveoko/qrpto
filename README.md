@@ -40,6 +40,8 @@ Various cryptographic tokens will be considered as viable platforms for message 
 
 ### Qrpto (version 0.0) -- BCH Blockchain (SLP)
 
+![Qrpto yellow logo](	https://github.com/noveoko/qrpto/blob/master/img/qrpto_0_0.png?raw=true)
+
 [Qrpto on BCH](https://explorer.bitcoin.com/bch/token/d713ca2cdeb671f2cae6b4b85e61316902497e61d053d57d198869b306315142)
 
 Status: Master wallet unable to be restored due to bitcoin.com API errors 
