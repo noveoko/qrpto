@@ -46,4 +46,6 @@ Status: Master wallet unable to be restored due to bitcoin.com API errors
 
 ### Qrpto2 (version 0.1) -- BCH Blockchain (SLP)
 
+![Qrpto 2 logo]( https://github.com/noveoko/qrpto/blob/master/img/qrpto_2_0_coin.png?raw=true)
+
 under development
