@@ -50,4 +50,6 @@ Status: Master wallet unable to be restored due to bitcoin.com API errors
 
 ![Qrpto 2 logo]( https://github.com/noveoko/qrpto/blob/master/img/qrpto_2_0_coin200x200.png?raw=true)
 
+[Qrpto 2 on BCH](https://explorer.bitcoin.com/bch/token/1944c21459bb76be5729061d87e5f705abc94ed69ce1f79d115f0dc2c7681fb2)
+
 under development
