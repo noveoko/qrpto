@@ -1,0 +1,26 @@
+# .gitignore
+
+# Python and Flask files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.log
+*.sqlite
+
+# Virtual environment
+venv/
+.env
+
+# SQLite database
+emails.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp

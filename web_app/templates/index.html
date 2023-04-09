@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="row">
+        <div class="col-md-6 offset-md-3 mt-5">
+            <h1 class="text-center" style="color: blue;">Ravengram</h1>
+            <p class="text-center">Sign up to get notified when the app is ready.</p>
+            <form action="{{ url_for('index') }}" method="post">
+                <div class="form-group">
+                    <input type="email" class="form-control" name="email" placeholder="Enter your email" required>
+                </div>
+                <button type="submit" class="btn btn-primary btn-block">Get Notified</button>
+            </form>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}Thank You - Ravengram{% endblock %}
+
+{% block content %}
+    <div class="row">
+        <div class="col-md-6 offset-md-3 mt-5">
+            <h1 class="text-center" style="color: blue;">Thank You!</h1>
+            <p class="text-center">You've successfully signed up for updates on Ravengram. We'll notify you when the app is ready.</p>
+            <a href="{{ url_for('index') }}" class="btn btn-primary btn-block">Go Back</a>
+        </div>
+    </div>
+{% endblock %}
